@@ -1,0 +1,18 @@
+.container {
+    width: 420px;
+    margin: 25px auto;
+}
+  
+.block {
+    height: 100px;
+    width: 100px;
+    margin: 2px;
+    float: left;
+    box-sizing: border-box;
+    background-color: yellowgreen; 
+}
+
+.goblin {
+    background-image: url(../img/goblin.png);
+    background-size: cover;
+}
